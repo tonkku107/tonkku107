@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I suck at writing, especially about myself, so I don't know what to put here...  
+Wanted to join the club of people with a cool profile README anyway.
+
 <!--
 **tonkku107/tonkku107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
